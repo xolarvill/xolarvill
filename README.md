@@ -1,7 +1,6 @@
-- 👋 Hi, I'm @xolarvill, or go by the name @solarwill. :)
-- 👀 I am a graduate student in macroeconomics. I'm interested in all kinds of geeky things. 
-- 🌱 I'm currently learning python, R and html.
-- 💞️ I'm looking to collaborate on amazingly interesting things.
+- 👋 Hi, I'm @xolarvill
+- 👀 I am a graduate student in economics. I'm interested in all kinds of geeky things. 
+- 🌱 I'm currently learning python, R, SQL, matlab and so much more.
 - 📫 How to reach me? I don't even know how to reach myself.
 
 <!---
