@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @xolarvill
 - 👀 I am a graduate student in economics. I'm interested in all kinds of geeky things. 
-- 🌱 I'm currently learning python, R, SQL, matlab and so much more.
+- 🌱 I'm currently learning python, SQL and whole stack web design.
 - 📫 How to reach me? I don't even know how to reach myself.
 
 <!---
